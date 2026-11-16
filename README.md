@@ -57,7 +57,7 @@ Assistente virtual baseado em IA generativa que responde dúvidas sobre polític
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-🔗 **Repositório:** [Acesse o projeto](INSIRA_LINK_DO_REPOSITORIO)
+🔗 **Repositório:** [Acesse o projeto](https://github.com/Yuri-Fagundes/AgenteRH)
 
 ---
 
