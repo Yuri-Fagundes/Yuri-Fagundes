@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:203a43,100:6a0dad&height=200&section=header&text=Yuri%20Fagundes&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20UFC&descAlignY=60&descSize=17" width="100%" alt="Yuri Fagundes - Banner"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:203a43,100:6a0dad&height=200&section=header&text=Yuri%20Fagundes&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20UFC&descAlignY=60&descSize=17" width="100%" alt="Yuri Fagundes - Engenharia de Software"/>
 
 <br/>
 
